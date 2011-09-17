@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ynews="http://news.yahoo.com/rss/">
+<channel>
+<title>Yahoo! News: Most Viewed</title>
+<copyright>Copyright (c) 2011 Yahoo! Inc. All rights reserved.</copyright>
+<link>http://news.yahoo.com/most-popular/viewed</link>
+<description>Most Viewed</description>
+<language>en-us</language> 
+<lastBuildDate>Mon, 27 Jun 2011 22:39:26 GMT</lastBuildDate>
+<ttl>5</ttl> 
+<image>
+<title>Yahoo! News</title>
+<width>142</width>
+<height>18</height>
+<link>http://news.yahoo.com/most-popular/viewed</link>
+<url>http://l.yimg.com/a/i/us/nws/th/main_142c.gif</url>
+</image>
+<item>
+<title>Washington state abandons all tourism marketing 
+    (AP)
+</title>
+ <link>http://us.rd.yahoo.com/dailynews/rss/mostviewed/*http://news.yahoo.com/s/ap_travel/20110627/ap_tr_ge/us_travel_brief_tourism_budgets</link>
+ <guid isPermaLink="false">ap_travel/20110627/us_travel_brief_tourism_budgets</guid>
+<source>AP</source>
+<category>travel</category>
+<pubDate>Mon, 27 Jun 2011 19:37:15 GMT</pubDate>
+<description>AP - Washington state is shuttering the official tourism agency that unifies its marketing message and abandoning all public support for one of its largest industries.</description>
+</item>
+<item>
+<title>TSA re-inspects elderly woman over wet diaper 
+    (AP)
+</title>
+ <link>http://us.rd.yahoo.com/dailynews/rss/mostviewed/*http://news.yahoo.com/s/ap_travel/20110627/ap_tr_ge/us_travel_brief_tsa_elderly_traveler</link>
+ <guid isPermaLink="false">ap_travel/20110627/us_travel_brief_tsa_elderly_traveler</guid>
+<source>AP</source>
+<category>travel</category>
+<pubDate>Mon, 27 Jun 2011 19:23:27 GMT</pubDate>
+<description>AP - The family of a gravely ill 95-year-old woman says federal inspectors wouldn&#039;t let her mother board a plane because her adult diaper was wet, setting off alarms.</description>
+</item>
+</channel>
+</rss>
+<!-- server api2.sub.news.sp1.yahoo.com -->
